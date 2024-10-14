@@ -44,7 +44,7 @@ We may update this privacy policy from time to time. We will notify you of any s
 
 ## 9. Contact Us
 
-If you have any questions regarding this privacy policy or the use of your data, please contact us at [your contact email].
+If you have any questions regarding this privacy policy or the use of your data, please contact us at simka-bot@gmail.com.
 
 ## 10. Consent
 
