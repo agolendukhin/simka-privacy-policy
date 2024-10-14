@@ -1,6 +1,6 @@
 # Privacy Policy for Telegram Bot Simka
 
-Last updated: [Current Date]
+Last updated: 15.10.24
 
 ## 1. Introduction
 
